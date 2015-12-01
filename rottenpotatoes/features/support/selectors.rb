@@ -15,6 +15,12 @@ module HtmlSelectorsHelpers
 
     when "the page"
       "html > body"
+    # when "table data"
+    #   "table#movies > tbody > td"
+    # when "table body"
+    #   "table#movies > tbody"
+      
+      
 
     # Add more mappings here.
     # Here is an example that pulls values out of the Regexp:
